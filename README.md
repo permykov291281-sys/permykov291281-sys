@@ -31,4 +31,4 @@
 
 🌐 **Сайт-портфолио:** https://permykov291281-sys.github.io/portfolio/
 
-📬 Пишите на бирже Kwork или в личные сообщения на GitHub.
+📬 Заказать: [Kwork — permykov81](https://kwork.ru/user/permykov81) · почта permykov291281@gmail.com
