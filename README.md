@@ -29,4 +29,6 @@
 
 **Стек:** JavaScript / Node.js, HTML/CSS, Python, Telegram и VK API, Railway, GitHub · **Инструменты:** Claude Code, нейросети для текстов и картинок
 
+🌐 **Сайт-портфолио:** https://permykov291281-sys.github.io/portfolio/
+
 📬 Пишите на бирже Kwork или в личные сообщения на GitHub.
